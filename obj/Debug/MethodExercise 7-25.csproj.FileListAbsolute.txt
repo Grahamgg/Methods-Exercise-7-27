@@ -1,0 +1,8 @@
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\bin\Debug\MethodExercise 7-25.exe.config
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\bin\Debug\MethodExercise 7-25.exe
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\bin\Debug\MethodExercise 7-25.pdb
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\obj\Debug\MethodExercise 7-25.csproj.AssemblyReference.cache
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\obj\Debug\MethodExercise 7-25.csproj.SuggestedBindingRedirects.cache
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\obj\Debug\MethodExercise 7-25.csproj.CoreCompileInputs.cache
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\obj\Debug\MethodExercise 7-25.exe
+C:\Users\graha\Desktop\repos\MethodExercise 7-25\obj\Debug\MethodExercise 7-25.pdb
